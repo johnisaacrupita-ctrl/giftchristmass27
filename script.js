@@ -4,7 +4,7 @@ function checkPassword() {
   const mainContent = document.getElementById("mainContent");
   const wrongMessage = document.getElementById("wrongMessage");
 
-  if(password === "Jhanna27") {
+  if(password === "Jhanna27050408") {
   popup.style.display = "none";
   mainContent.style.display = "block";
 
