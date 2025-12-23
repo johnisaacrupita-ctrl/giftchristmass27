@@ -4,7 +4,7 @@ function checkPassword() {
   const mainContent = document.getElementById("mainContent");
   const wrongMessage = document.getElementById("wrongMessage");
 
-  if(password === "Jhanna27050408") {
+  if(password === "Princess082705") {
   popup.style.display = "none";
   mainContent.style.display = "block";
 
@@ -227,3 +227,4 @@ setInterval(createSnowflake, 200);
 christmasPopup.addEventListener('click', () => {
   christmasPopup.style.display = 'none';
 });
+
